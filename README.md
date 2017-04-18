@@ -1,6 +1,8 @@
 # tutorialdockerapache
 Tutorial de instalação do Docker no ubuntu com apache
-O que é o Docker ?
+
+ O que é o Docker ?
+ 
   Docker é uma plataforma Open Source escrito em Go, que é uma linguagem de programação de alto desempenho desenvolvida dentro do Google, que facilita a criação e administração de ambientes isolados.
  
  Instalação do Docker com Imagem
